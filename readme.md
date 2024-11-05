@@ -74,6 +74,9 @@ Output variable (desired target):
 # Isi Konten:
 
 a. EDA
+
 b. Data Pre-Processing
+
 c. Feature Engineering
+
 d. Modelling using LGBM
