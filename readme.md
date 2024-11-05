@@ -73,4 +73,7 @@ Output variable (desired target):
 ---------------------------------------------------------------------------------------------------------------------
 # Isi Konten:
 
-a. Proses Data Cleansing
+a. EDA
+b. Data Pre-Processing
+c. Feature Engineering
+d. Modelling using LGBM
